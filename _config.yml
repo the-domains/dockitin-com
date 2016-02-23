@@ -1,0 +1,28 @@
+name: dockitin.com
+favicon: null
+layout_spectrum: 0.4654374993406236
+typography_spectrum: 0.9277827532496303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4564721102360636
+  lightness: 0.2742318941745907
+  saturation: 0.1495622587390244
+  rhythmicContrast: 0.8290548622608185
+purpose: []
